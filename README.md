@@ -9,7 +9,7 @@
 
 ## Contents
 
-- [Device Info](#Device Info)
+- [Device Info](#DeviceInfo)
 
-## Device Info
+## DeviceInfo
 
