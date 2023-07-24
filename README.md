@@ -18,6 +18,10 @@
 - [Skeleton screen](#skeletonScreen)
 - [Refresh](#refresh)
 - [Download](#download)
+- [Menu](#menu)
+- [screen](#screen)
+- [Animated](#animated)
+- [Drawer](#drawer)
 
 ## DeviceInfo
 
@@ -44,6 +48,10 @@
 
 <img src='https://user-images.githubusercontent.com/55009858/178099543-d3b576d9-625c-426e-b627-9e48c2f65c17.gif'/>
 
+- [profile_view](https://pub.dev/packages/profile_view)
+
+<img src='./image/awesome_extensions.gif'/>
+
 ## SkeletonScreen
 
 - [awesome_extensions](https://pub.dev/packages/awesome_extensions)
@@ -61,3 +69,28 @@
 - [easy_downloader](https://pub.dev/packages/easy_downloader)
 
 <img src='./image/easy_downloader.gif'/>
+
+## Menu
+
+- [fab_circular_menu_plus](https://pub.dev/packages/fab_circular_menu_plus)
+
+<img src='./image/fab_circular_menu_plus.gif'/>
+
+## Screen
+
+- [flutter_splash_screen](https://pub.dev/packages/flutter_splash_screen)
+
+<img src='./image/flutter_splash_screen.gif'/>
+
+## Animated
+
+- [animated_flip_counter](https://pub.dev/packages/animated_flip_counter)
+
+<img src='./image/animated_flip_counter.gif'/>
+
+## Drawer
+
+- [sidebarx](https://pub.dev/packages/sidebarx)
+
+<img src='./image/sidebarx.gif'/>
+
