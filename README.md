@@ -50,7 +50,7 @@
 
 - [profile_view](https://pub.dev/packages/profile_view)
 
-<img src='./image/awesome_extensions.gif'/>
+<img src='./image/profile_view.gif'/>
 
 ## SkeletonScreen
 
