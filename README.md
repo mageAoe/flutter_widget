@@ -22,6 +22,11 @@
 - [screen](#screen)
 - [Animated](#animated)
 - [Drawer](#drawer)
+- [SMS code](#sMSCode)
+- [Form_Fields](#formFields)
+- [Paginated](#paginated)
+- [Toolkit](#toolkit)
+- [Datetime](#datetime)
 
 ## DeviceInfo
 
@@ -51,6 +56,22 @@
 - [profile_view](https://pub.dev/packages/profile_view)
 
 <img src='./image/profile_view.gif'/>
+
+- [hl_image_picker_android](https://pub.dev/packages/hl_image_picker_android)
+
+<img src='./image/hl_image_picker_android.gif'/>
+
+- [hl_image_picker](https://pub.dev/packages/hl_image_picker)
+
+- [image_crop_plus_updated](https://pub.dev/packages/image_crop_plus_updated)
+
+<img src='./image/image_crop_plus_updated.gif'/>
+
+- [photo_view_x](https://pub.dev/packages/photo_view_x)
+
+<img src='./image/photo_view_x.gif'/>
+
+
 
 ## SkeletonScreen
 
@@ -88,9 +109,43 @@
 
 <img src='./image/animated_flip_counter.gif'/>
 
+- [flutter_animate](https://pub.dev/packages/flutter_animate)
+
+<img src='./image/flutter_animate.gif'/>
+
+
 ## Drawer
 
 - [sidebarx](https://pub.dev/packages/sidebarx)
 
 <img src='./image/sidebarx.gif'/>
 
+## SMSCode
+
+- [pinput](https://pub.dev/packages/pinput)
+
+<img src='./image/pinput.gif'/>
+
+## FormFields
+
+[flutter_form_fields](https://pub.dev/packages/flutter_form_fields)
+
+<img src='./image/flutter_form_fields.gif'/>
+
+## Paginated
+
+- [enhanced_paginated_view](https://pub.dev/packages/enhanced_paginated_view)
+
+<img src='./image/enhanced_paginated_view.gif'/>
+
+## Toolkit
+
+- [widget_toolkit](https://pub.dev/packages/widget_toolkit)
+
+<img src='./image/widget_toolkit.gif'/>
+
+## Datetime
+
+- [board_datetime_picker](https://pub.dev/packages/board_datetime_picker)
+
+<img src='./image/board_datetime_picker.gif'/>
