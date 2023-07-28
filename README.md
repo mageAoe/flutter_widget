@@ -23,10 +23,14 @@
 - [Animated](#animated)
 - [Drawer](#drawer)
 - [SMS code](#sMSCode)
-- [Form_Fields](#formFields)
+- [Form Fields](#formFields)
 - [Paginated](#paginated)
 - [Toolkit](#toolkit)
 - [Datetime](#datetime)
+- [Mobile Upgrader](#mobileUpgrader)
+- [Dialog](#dialog)
+- [Toast](#toast)
+- ​:star: [Other](#other)
 
 ## DeviceInfo
 
@@ -72,12 +76,16 @@
 <img src='./image/photo_view_x.gif'/>
 
 
-
 ## SkeletonScreen
 
 - [awesome_extensions](https://pub.dev/packages/awesome_extensions)
 
 <img src='./image/awesome_extensions.gif'/>
+
+- [skeletonizer](https://pub.dev/packages/skeletonizer)
+
+<img src='./image/skeletonizer.gif'/>
+
 
 ## Refresh
 
@@ -149,3 +157,28 @@
 - [board_datetime_picker](https://pub.dev/packages/board_datetime_picker)
 
 <img src='./image/board_datetime_picker.gif'/>
+
+## mobileUpgrader
+
+- [flutter_mobile_upgrader](https://pub.dev/packages/flutter_mobile_upgrader)
+
+<img src='./image/flutter_mobile_upgrader.gif'/>
+
+## dialog
+
+- [ndialog](https://pub.dev/packages/ndialog)
+
+<img src='./image/ndialog.gif'/>
+
+## toast
+
+- [info_toast](https://pub.dev/packages/info_toast)
+
+<img src='./image/info_toast.gif'/>
+
+## other
+
+- [city_pickers](https://pub.dev/packages/city_pickers)
+
+<img src='https://img.alicdn.com/tfs/TB16H9XGCzqK1RjSZPcXXbTepXa-329-687.gif' alt='city_pickers'/>
+
