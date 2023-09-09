@@ -13,6 +13,7 @@
 
 - :boom: [Device Info](#deviceInfo)
 - :video_camera: [Videoplayer](#videoplayer)
+- :audio_camera: [Audioplayer](#audioplayer)
 - :pencil2: [Signaturepad](#signaturepad)
 - :framed_picture: [Image](#image)
 - :globe_with_meridians: [Skeleton screen](#skeletonScreen)
@@ -35,6 +36,7 @@
 - [Calendar](#calendar)
 - [Scan](#scan)
 - [Login](#login)
+- [List](#list)
 - ​:star: [Other](#other)
 
 ## DeviceInfo
@@ -49,6 +51,11 @@
 
 <img src="./image/pod_player.gif" width="234" />
 
+## audioplayer
+
+- [assets_audio_player](https://pub.dev/packages/assets_audio_player)
+
+<img src="./image/assets_audio_player.gif" width="234" />
 
 ## Signaturepad
 
@@ -83,6 +90,10 @@
 - [custom_image_crop](https://pub.dev/packages/custom_image_crop)
 
 <img width="234"  src='./image/custom_image_crop.gif'/>
+
+- [interactive_gallery](https://pub.dev/packages/interactive_gallery)
+
+<img width="234"  src='./image/interactive_gallery.gif'/>
 
 
 ## SkeletonScreen
@@ -137,6 +148,18 @@
 - [another_flutter_splash_screen](https://pub.dev/packages/another_flutter_splash_screen)
 
 <img width="234"  src='./image/another_flutter_splash_screen.gif'/>
+
+- [animate_do](https://pub.dev/packages/animate_do)
+
+<img width="234"  src='./image/animate_do.gif'/>
+
+- [animated_flutter_widgets](https://pub.dev/packages/animated_flutter_widgets)
+
+<img width="234"  src='./image/animated_flutter_widgets.gif'/>
+
+- [animations](https://pub.dev/packages/animations)
+
+<img width="234"  src='./image/animations.gif'/>
 
 
 ## Drawer
@@ -209,6 +232,10 @@
 
 <img width="234"  src='./image/diamond_node_slider.gif'/>
 
+- [intro_slider](https://pub.dev/packages/intro_slider)
+
+<img width="234"  src='./image/intro_slider.gif'/>
+
 ## calendar
 
 - [calendar_date_picker2](https://pub.dev/packages/calendar_date_picker2)
@@ -227,6 +254,18 @@
 
 <img width="234"  src='./image/flutter_login_fix.gif'/>
 
+- [flutter_login](https://pub.dev/packages/flutter_login)
+
+<img width="234"  src='./image/flutter_login.gif'/>
+
+
+## list
+
+- [infinite_grouped_list](https://pub.dev/packages/infinite_grouped_list)
+
+<img width="234"  src='./image/infinite_grouped_list.gif'/>
+
+
 ## other
 
 - [city_pickers](https://pub.dev/packages/city_pickers)
@@ -236,3 +275,7 @@
 - [chatview](https://pub.dev/packages/chatview)
 
 <img width="234"  src='./image/chatview.gif'/>
+
+- [responsive_navigation_bar](https://pub.dev/packages/responsive_navigation_bar)
+
+<img width="234"  src='./image/responsive_navigation_bar.gif'/>
