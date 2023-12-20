@@ -13,7 +13,7 @@
 
 - :boom: [Device Info](#deviceInfo)
 - :video_camera: [Videoplayer](#videoplayer)
-- :audio_camera: [Audioplayer](#audioplayer)
+- :play_or_pause_button:  [Audioplayer](#audioplayer)
 - :pencil2: [Signaturepad](#signaturepad)
 - :framed_picture: [Image](#image)
 - :globe_with_meridians: [Skeleton screen](#skeletonScreen)
@@ -24,20 +24,22 @@
 - :banana: [Animated](#animated)
 - :melon: [Drawer](#drawer)
 - :grapes: [SMS code](#sMSCode)
-- :pineapple: [Form Fields](#formFields)
+- :pineapple: [Form](#form)
 - :watermelon: [Paginated](#paginated)
 - :cherries: [Toolkit](#toolkit)
 - :lollipop: [Datetime](#datetime)
 - :sparkles: [Mobile Upgrader](#mobileUpgrader)
 - :dizzy: [Dialog](#dialog)
 - :star2: [Toast](#toast)
-- [Swiper](#swiper)
-- [Slider](#slider)
-- [Calendar](#calendar)
-- [Scan](#scan)
-- [Login](#login)
-- [List](#list)
-- ​:star: [Other](#other)
+- :star: [Swiper](#swiper)
+- :star: [Slider](#slider)
+- :star: [Calendar](#calendar)
+- :star: [Scan](#scan)
+- :star: [Login](#login)
+- :star: [List](#list)
+- :star: [Charts](#charts)
+- :star: [Grid](#grid)
+- :heart: [Other](#other)
 
 ## DeviceInfo
 
@@ -56,6 +58,8 @@
 - [assets_audio_player](https://pub.dev/packages/assets_audio_player)
 
 <img src="./image/assets_audio_player.gif" width="234" />
+
+- [assets_audio_player](https://pub.dev/packages/assets_audio_player)
 
 ## Signaturepad
 
@@ -161,6 +165,9 @@
 
 <img width="234"  src='./image/animations.gif'/>
 
+- [animated_theme_switcher](https://pub.dev/packages/animated_theme_switcher)
+
+<img width="234"  src='./image/animated_theme_switcher.gif'/>
 
 ## Drawer
 
@@ -174,11 +181,19 @@
 
 <img width="234"  src='./image/pinput.gif'/>
 
-## FormFields
+## Form
 
 [flutter_form_fields](https://pub.dev/packages/flutter_form_fields)
 
 <img width="234"  src='./image/flutter_form_fields.gif'/>
+
+- [elevarm_ui](https://pub.dev/packages/elevarm_ui)
+
+<img width="234"  src='./image/elevarm_ui.gif' alt='elevarm_ui' />
+
+- [city_pickers](https://pub.dev/packages/city_pickers)
+
+<img width="234"  src='./image/city_pickers.gif' alt='city_pickers'/>
 
 ## Paginated
 
@@ -265,12 +280,19 @@
 
 <img width="234"  src='./image/infinite_grouped_list.gif'/>
 
+## charts
+
+- [flutter_chart_plus](https://pub.dev/packages/flutter_chart_plus)
+
+<img width="234"  src='./image/flutter_chart_plus.gif'/>
+
+## grid
+
+- [flutter_super_grid](https://pub.dev/packages/flutter_super_grid)
+
+<img width="234"  src='./image/flutter_super_grid.gif'/>
 
 ## other
-
-- [city_pickers](https://pub.dev/packages/city_pickers)
-
-<img width="234"  src='https://img width="234" .alicdn.com/tfs/TB16H9XGCzqK1RjSZPcXXbTepXa-329-687.gif' alt='city_pickers'/>
 
 - [chatview](https://pub.dev/packages/chatview)
 
