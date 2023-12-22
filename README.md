@@ -83,6 +83,8 @@
 
 - [hl_image_picker](https://pub.dev/packages/hl_image_picker)
 
+<img width="234"  src='./image/hl_image_picker.gif'/>
+
 - [image_crop_plus_updated](https://pub.dev/packages/image_crop_plus_updated)
 
 <img width="234"  src='./image/image_crop_plus_updated.gif'/>
